@@ -136,6 +136,7 @@ Press enter to continue...''')
     input()
 
 print('S O N A R !')
+print('Lets find treasure chests!')
 print()
 print('Would you like to view the instructions? (yes/no)')
 if input().lower().startswith('y'):
